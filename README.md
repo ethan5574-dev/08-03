@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://chatgpt.com/).
+This project was bootstrapped with [Create React App1](https://chatgpt.com/).
+[Create React App2](https://gemini.google.com/app?hl=vi).
+[Create React App3](https://copilot.microsoft.com/).
+[Create React App4](https://poe.com/).
 
 ## Available Scripts
 
@@ -9,7 +12,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](https://husteduvn-my.sharepoint.com/:b:/g/personal/hau_tv215574_sis_hust_edu_vn/ES-dFoAQPM5GoXWaaLwZe2EB1ZTSrZ6ORootQ1thMtCl3g?e=ChjhNb) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
