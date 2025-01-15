@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App1](https://chatgpt.com/).
 [Create React App2](https://gemini.google.com/app?hl=vi).
 [Create React App3](https://copilot.microsoft.com/).
 [Create React App4](https://poe.com/).
+[Create React App Slide](https://drive.google.com/file/d/15d6zDbRAfQtXW8u53UfYIUHzyzhrvLEb/view?usp=sharing).
 
 ## Available Scripts
 
